@@ -4,11 +4,11 @@
 float sum(float a, float b);
 int main(){
     float x,y;
-    printf("ENTER THE FIRST NUMBER:");
+    printf("enter the first number:");
     scanf("%f",&x);
-    printf("ENTER THE SECOND NUMBER:");
+    printf("enter the second number:");
     scanf("%f",&y);
-    printf("SUM OF THE TWO NUMBERS IS %f",sum(x,y));
+    printf("sum of the two numbers is %f",sum(x,y));
     return 0;
 }
 
