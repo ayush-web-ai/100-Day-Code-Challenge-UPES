@@ -1,1 +1,4 @@
 # 100-Day-Code-Challenge-UPES
+
+# SEMESTER 1 100 DAYS CODE CHALLENGE
+--
