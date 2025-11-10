@@ -10,8 +10,8 @@ int main(){
 
 }
 int odd(int n){
-    int sum = 0;//this stores sum of odd numbers
-    int count = 1;//initial odd number 
+    int sum = 0;
+    int count = 1;
 
     for(int i = 1;i<=n;i++,count+=2){
         
@@ -20,6 +20,4 @@ int odd(int n){
     }
     return sum;
 }
-// it odd(n){
-//return n*n;
-//}sum of first n odd numbers is n square
+
